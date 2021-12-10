@@ -1,5 +1,7 @@
 # BL-Language
 
+Write the code in BL Language and when you run it, it is compiled to Java code and execute it.
+
 ## Sample Code:
 
 number speed = 5;
