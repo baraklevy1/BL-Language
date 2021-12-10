@@ -1,6 +1,6 @@
 # BL-Language
 
-Sample Code:
+## Sample Code:
 
 number speed = 5;
 
