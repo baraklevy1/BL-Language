@@ -2,6 +2,8 @@
 
 Write the code in BL Language and when you run it, it is compiled to Java code and execute it.
 
+![BL Language](https://user-images.githubusercontent.com/47058682/145533009-edab95cf-02c0-4e46-92e3-314a491b144a.png)
+
 ## Sample Code:
 
 number speed = 5;
